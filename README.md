@@ -88,10 +88,9 @@ IndexError: list index out of range
 The assistant analyzes the code and error, identifies the cause of the problem, explains why it occurred, and suggests a possible fix.
 ## 📸 Demo
 
-### 1. User Inputs
+### 1. User Input
 
-
-![AI Debugging Assistant Demo](https://github.com/Atiq40-cyber/ai-debugging-assistant/blob/main/demo.png?raw=true)
+![AI Debugging Assistant](https://raw.githubusercontent.com/Atiq40-cyber/ai-debugging-assistant/main/demo.png)
 
 ### 2. AI Debugging Result
 
