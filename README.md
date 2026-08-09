@@ -80,13 +80,25 @@ numbers = [1, 2, 3]
 print(numbers[5])
 ``text
 
-![AI Debugging Assistant Demo](demo.png)
+
 ### Error
 ```text
 IndexError: list index out of range
 ### AI Analysis
 The assistant analyzes the code and error, identifies the cause of the problem, explains why it occurred, and suggests a possible fix.
+## 📸 Demo
 
+### 1. User Input
+
+![User Input](demo.png)
+
+### 2. AI Debugging Result
+
+![Debugging Result](screenshots/debugging-result.png)
+
+### 3. Suggested Fix
+
+![Suggested Fix](screenshots/debugging-fix.png)
 ## 🚧 Future Improvements
 - [ ] Support more programming languages
 - [ ] Generate automated test cases
