@@ -89,7 +89,9 @@ The assistant analyzes the code and error, identifies the cause of the problem, 
 ## 📸 Demo
 
 ### 1. User Inputs
- https://github.com/Atiq40-cyber/ai-debugging-assistant/blob/main/demo.png?raw=true
+
+
+![AI Debugging Assistant Demo](https://github.com/Atiq40-cyber/ai-debugging-assistant/blob/main/demo.png?raw=true)
 
 ### 2. AI Debugging Result
 
