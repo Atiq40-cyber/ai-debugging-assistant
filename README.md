@@ -100,7 +100,6 @@ The assistant analyzes the code and error, identifies the cause of the problem, 
 
 
 
-
 ## 🚧 Future Improvements
 - [ ] Support more programming languages
 - [ ] Generate automated test cases
