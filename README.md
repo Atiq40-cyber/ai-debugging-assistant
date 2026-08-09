@@ -78,7 +78,9 @@ python main.py
 ```python
 numbers = [1, 2, 3]
 print(numbers[5])
-```
+``
+
+![AI Debugging Assistant Demo](./demo.png)
 ### Error
 ```text
 IndexError: list index out of range
