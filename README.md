@@ -92,11 +92,9 @@ The assistant analyzes the code and error, identifies the cause of the problem, 
 
 ![AI Debugging Assistant](https://raw.githubusercontent.com/Atiq40-cyber/ai-debugging-assistant/main/demo.png)
 
-### 2. AI Debugging Result
 
-![Debugging Result](screenshots/debugging-result.png)
 
-### 3. Suggested Fix
+
 
 ![Suggested Fix](screenshots/debugging-fix.png)
 ## 🚧 Future Improvements
