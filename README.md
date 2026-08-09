@@ -96,7 +96,7 @@ The assistant analyzes the code and error, identifies the cause of the problem, 
 
 
 
-![Suggested Fix](screenshots/debugging-fix.png)
+
 ## 🚧 Future Improvements
 - [ ] Support more programming languages
 - [ ] Generate automated test cases
