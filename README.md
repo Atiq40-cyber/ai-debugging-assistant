@@ -86,11 +86,15 @@ print(numbers[5])
 IndexError: list index out of range
 ### AI Analysis
 The assistant analyzes the code and error, identifies the cause of the problem, explains why it occurred, and suggests a possible fix.
+
+
+
+
 ## 📸 Demo
 
 ### 1. User Input
 
-![AI Debugging Assistant](https://raw.githubusercontent.com/Atiq40-cyber/ai-debugging-assistant/main/demo.png)
+![Demo](demo.png)
 
 
 
