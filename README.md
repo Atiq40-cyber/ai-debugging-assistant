@@ -78,7 +78,7 @@ python main.py
 ```python
 numbers = [1, 2, 3]
 print(numbers[5])
-``
+``text
 
 ![AI Debugging Assistant Demo](demo.png)
 ### Error
